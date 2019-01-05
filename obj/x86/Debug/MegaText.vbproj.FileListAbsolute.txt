@@ -1,0 +1,10 @@
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\bin\Debug\MegaText.exe
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\bin\Debug\MegaText.pdb
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\bin\Debug\MegaText.xml
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\obj\x86\Debug\MegaText.Form1.resources
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\obj\x86\Debug\MegaText.Resources.resources
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\obj\x86\Debug\MegaText.vbproj.GenerateResource.Cache
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\obj\x86\Debug\MegaText.exe
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\obj\x86\Debug\MegaText.xml
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\obj\x86\Debug\MegaText.pdb
+C:\Users\vince\AppData\Local\Temporary Projects\MegaText\obj\x86\Debug\MegaText.Form2.resources

@@ -1,0 +1,11 @@
+C:\Users\vince\Desktop\program\codeftext\codeftext\bin\Debug\codeftext.exe
+C:\Users\vince\Desktop\program\codeftext\codeftext\bin\Debug\codeftext.pdb
+C:\Users\vince\Desktop\program\codeftext\codeftext\bin\Debug\codeftext.xml
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\MegaText.Form1.resources
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\MegaText.Form2.resources
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\MegaText.Resources.resources
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\codeftext.vbproj.GenerateResource.Cache
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\codeftext.exe
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\codeftext.xml
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\codeftext.pdb
+C:\Users\vince\Desktop\program\codeftext\codeftext\obj\x86\Debug\MegaText.Form3.resources
